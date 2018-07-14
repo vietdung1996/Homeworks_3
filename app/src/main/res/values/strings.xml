@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homeworks</string>
+    //Home work 3_1
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="SetColor">Set Color</string>
+
+    //Home work 3_2
+    <string name="Color1">Color1</string>
+    <string name="Color2">Color2</string>
+    <string name="Color3">Color3</string>
+    <string name="Clear">Clear</string>
+    //Home work 3_4
+    <string name="Button1">Button 1</string>
+    <string name="Button2">Button 2</string>
+    <string name="Button3">Button 3</string>
+    <string name="Button4">Button 4</string>
+    <string name="Button5">Button 5</string>
+</resources>
